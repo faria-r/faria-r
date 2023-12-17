@@ -13,11 +13,12 @@
 
 <br />
 
-<p align="center">
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/faria-r/)
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/faria.frb/)
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">](https://twitter.com/FariaR20)
+<p align="center" >[![](./imgs/Facebook.png)](https://www.facebook.com/faria.frb/)
+[![](./imgs/Linkedin.png)](https://www.linkedin.com/in/faria-r/)
+[![](./imgs/Twitter.png)](https://twitter.com/FariaR20)
 </p>
+
+
 <br />
 
 ## :computer: Technologies that I know
