@@ -13,9 +13,8 @@
 
 <br />
 
-{<p align="center" ><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/faria-r/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/faria.frb/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">  </p>](https://twitter.com/FariaR20)
-
-[![GitHub Logo](https://example.com/logo.png)](https://github.com/)
+<p align="center">[![](https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png)](https://www.linkedin.com/in/faria-r/)
+  <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/faria-r/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/faria.frb/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">  </p>](https://twitter.com/FariaR20)
 
  
 <br />
