@@ -12,10 +12,9 @@
 ## :mailbox: Reach me out
 
 <br />
-<p align="center" >[![](./imgs/Facebook.png)](https://www.facebook.com/faria.frb/)
+[![](./imgs/Facebook.png)](https://www.facebook.com/faria.frb/)
 [![](./imgs/Linkedin.png)](https://www.linkedin.com/in/faria-r/)
 [![](./imgs/Twitter.png)](https://twitter.com/FariaR20)
-</p>
 <br />
 
 ## :computer: Technologies that I know
