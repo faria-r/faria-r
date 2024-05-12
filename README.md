@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><img height="75" src="./imgs/Linkedin.png">](https://www.linkedin.com/in/faria-r)[<img height="75" src="./imgs/Facebook.png">](https://www.facebook.com/faria.frb)[<img height="75" src="./imgs/Twitter.png"> </p>](https://twitter.com/FariaR20)
+[<p align="center"><a href="(https://www.linkedin.com/in/faria-r)"><img height="75" src="./imgs/Linkedin.png">](https://www.linkedin.com/in/faria-r)</a>[<img height="75" src="./imgs/Facebook.png">](https://www.facebook.com/faria.frb)[<img height="75" src="./imgs/Twitter.png"> </p>](https://twitter.com/FariaR20)
 
 <br />
 
@@ -30,8 +30,7 @@
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<!-- <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/> -->
+
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
