@@ -13,7 +13,7 @@
 
 <br />
 
-[<p align="center"><a href="(https://www.linkedin.com/in/faria-r)">[<img height="75" src="./imgs/Linkedin.png">]</a>[<img height="75" src="./imgs/Facebook.png">](https://www.facebook.com/faria.frb)[<img height="75" src="./imgs/Twitter.png"> </p>](https://twitter.com/FariaR20)
+<p align="center"><a href="(https://www.linkedin.com/in/faria-r)"><img height="75" src="./imgs/Linkedin.png">(https://www.linkedin.com/in/faria-r)</a>[<img height="75" src="./imgs/Facebook.png">](https://www.facebook.com/faria.frb)[<img height="75" src="./imgs/Twitter.png"> </p>](https://twitter.com/FariaR20)
 
 <br />
 
